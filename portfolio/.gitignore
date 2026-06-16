@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+src/node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Replit artifacts (not needed outside Replit)
+.replit-artifact/
