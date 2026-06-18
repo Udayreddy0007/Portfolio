@@ -79,7 +79,7 @@ export function Hero() {
             </a>
             <a
               href="/Uday_Res.pdf"
-              download="Uday_Sai_Charan_Reddy_Resume.docx"
+              download="Uday_Sai_Charan_Reddy_Resume.pdf"
               className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl font-semibold text-white transition-all duration-200 hover:bg-white/10"
               style={{
                 background: "rgba(255,255,255,0.05)",
