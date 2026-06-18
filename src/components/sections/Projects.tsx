@@ -26,7 +26,7 @@ const projects = [
       "Built using HTML5, CSS3, and vanilla JavaScript — no frameworks",
       "Features shopping cart, simulated checkout, and DOM-based product filtering & search",
     ],
-    liveUrl: "https://udayreddy0007.github.io/Sports-Flex",
+    liveUrl: "https://sports-flex-phi.vercel.app/",
     githubUrl: "https://github.com/Udayreddy0007/Sports-Flex",
   },
 ];
