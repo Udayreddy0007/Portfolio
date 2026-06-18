@@ -78,7 +78,7 @@ export function Hero() {
               <ArrowRight size={18} />
             </a>
             <a
-              href="/resume.docx"
+              href="/Uday_Res.pdf"
               download="Uday_Sai_Charan_Reddy_Resume.docx"
               className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl font-semibold text-white transition-all duration-200 hover:bg-white/10"
               style={{
